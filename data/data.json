@@ -1,0 +1,59 @@
+[{
+  "firstName": "Eduardo",
+  "lastName": "Gonzalez Flores",
+  "position": "Junior Systems Engineer",
+  "photo": "https://i.ibb.co/6DYLkXy/Photo-removebg-preview.png",
+  "description": "I'm a Junior Systems Engineer with a passion for learning and building things.",
+  "address": {
+    "city": "Chetumal",
+    "state": "Quintana Roo",
+    "country": "Mexico"
+  },
+  "enlaces": {
+    "mail": "https://www.facebook.com/eduardo.gonzalez.flores",
+    "github": "https://github.com/EduardoGlFl",
+    "portafolio": "https://eduardo-weeb.netlify.app/"
+  },
+  "academic": {
+    "institution": "CBTIs",
+    "date": "2012-2015",
+    "degree": "Technical High School",
+    "major": "Clinical Laboratory Technician"
+  },
+  "college": {
+    "institution": "Tecnológico de Chetumal",
+    "date": "2017-2022",
+    "degree": "Computer Systems Engineer",
+    "major": "Specialty in Web Development"
+  },
+  "work":{
+    "title": "Social Service",
+    "date": "January 2021 - August 2021",
+    "company": "Secretaria de la Contraloria del Estado de Quintana Roo",
+    "task": "I was responsible for the development of the system of the social service.",
+    "task2": "Data base normalization and migration.",
+    "task3": "Form validation."
+  },
+  "projects" :
+  {
+    "title": "La Oaxaqueña",
+    "description":
+      "Build and deploy of a e-commerce plataform, develop with React and using Stripe to accept online payments",
+    "image": "https://i.ibb.co/MR4W2M5/2.png",
+    "tags": ["React", "JavaScript", "Stripe"],
+    "source": "https://la-oaxaquena.netlify.app/",
+    "visit": "https://la-oaxaquena.netlify.app/",
+    "id": 1
+  },
+  "projects2":{
+    "title": "Events Dashboard",
+    "description":
+      "We develop an event management dashboard build with the framework for PHP 'Laravel' ",
+    "image": "https://i.ibb.co/x2Jp8kY/3.png",
+    "tags": ["Laravel", "Blade", "Bootstrap", "MySQL"],
+    "source": "https://github.com/EduardoGlFl/ProyectoLaravel/tree/Eduardo",
+    "visit": "https://google.com",
+    "id": 2
+  }
+}
+]
